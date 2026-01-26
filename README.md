@@ -13,6 +13,28 @@ My name is Mohamed, and I'm an Android Developer from Egypt, focused on building
 🎲 Fun fact: I value clean architecture and attention to detail
 </p>
 
+<h2 align="left">Featured Projects</h2>
+
+<ul>
+  <li>
+    <b>DayMate – Smart Daily Companion</b><br>
+    A smart daily companion app that combines alarms, reminders, health tips, and prayer notifications into one simple timeline-based experience.<br>
+    <i>Tech:</i> Kotlin · Android Studio · Firebase · Material Design
+  </li>
+  <br>
+  <li>
+    <b>Newsly – Android News App</b><br>
+    A modern Android news application built with Kotlin and Firebase following the MVVM architecture.<br>
+    <i>Tech:</i> Kotlin · Firebase · MVVM · Retrofit
+  </li>
+  <br>
+  <li>
+    <b>Banque Misr Login UI</b><br>
+    A clean recreation of Banque Misr’s login screen with a focus on UI accuracy and user experience.<br>
+    <i>Tech:</i> Kotlin · XML · Material Design
+  </li>
+</ul>
+
 <h2 align="left">I code with</h2>
 
 <div align="left">
