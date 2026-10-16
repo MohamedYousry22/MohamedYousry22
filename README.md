@@ -1,7 +1,7 @@
 <h1 align="left">Hey 👋 What's up?</h1>
 
 <p align="left">
-My name is Mohamed, and I'm an Android Developer from Egypt, focused on building clean, user-friendly mobile applications using Kotlin.
+My name is Mohamed, and I'm an Mobile Developer from Egypt, focused on building clean, user-friendly mobile applications using Kotlin.
 </p>
 
 <h2 align="left">About me</h2>
