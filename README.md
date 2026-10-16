@@ -7,7 +7,7 @@ My name is Mohamed, and I'm an Android Developer from Egypt, focused on building
 <h2 align="left">About me</h2>
 
 <p align="left">
-✨ Experience: Android Application Development<br>
+✨ Experience: Mobile Application Development<br>
 📚 Currently learning: Advanced Android development<br>
 🎯 Goals: Deliver reliable Android applications and continuously improve technical skills<br>
 🎲 Fun fact: I value clean architecture and attention to detail
